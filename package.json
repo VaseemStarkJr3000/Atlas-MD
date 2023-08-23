@@ -59,7 +59,7 @@
     "libphonenumber-js": "^1.10.20",
     "libsignal": "https://github.com/adiwajshing/libsignal-node.git",
     "moment-timezone": "^0.5.43",
-    "mongoose": "^7.1.1",
+    "mongoose": "^6.0.9",
     "mumaker": "^1.0.0",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
